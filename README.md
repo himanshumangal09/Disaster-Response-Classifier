@@ -44,10 +44,11 @@
 - joblib
 - jupyter # If you want to view the notebooks
 - pandas
-- plot.ly
+- plotly
 - numpy
 - scikit-learn
 - sqlalchemy
 
 
 ### Data and cleaning details:
+The first part of my data pipeline is the Extract, Transform, and Load process. Here, I read the dataset, clean the data, and then store it in a SQLite database. I have done the data cleaning with pandas. To load the data into an SQLite database, I have use the pandas dataframe .to_sql() method.
