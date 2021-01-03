@@ -8,11 +8,11 @@ The web app also displays visualizations of the data.
 
 ## Web application screenshots
 
-![file1](https://github.com/himanshumangal09/udacity-disaster-response/blob/master/file1.JPG)
+![file1](https://github.com/himanshumangal09/UdacityDisasterResponse/blob/master/file1.JPG)
 
-![file2](https://github.com/himanshumangal09/udacity-disaster-response/blob/master/file2.JPG)
+![file2](https://github.com/himanshumangal09/UdacityDisasterResponse/blob/master/file2.JPG)
 
-![file3](https://github.com/himanshumangal09/udacity-disaster-response/blob/master/file3.JPG)
+![file3](https://github.com/himanshumangal09/UdacityDisasterResponse/blob/master/file3.JPG)
 
 ### Install
 This project requires Python 3.x and the following Python libraries installed:
